@@ -1,0 +1,1 @@
+Hi Sample Git Commands using merging features.
